@@ -22,6 +22,8 @@ Two modes. Detect, then run **one**:
 
 Detect first. Status-report each phase in one line. Ask only when a choice or privilege is required. Never ask "continue?"
 
+**Resume on ruach (2026-08-22):** If `headroom` is missing or `max-headroom.script` is missing, **walk the operator through install** using `~/freebsd-mac-grok/REMNANT.md` (Headroom remnant) and this skill, unless they say the docs showed something to address first. Checkout `~/projects/headroom` @ v0.36.4 already exists — do not wipe it. Last `pip` wheel failed on `ort` / maturin (`ORT_DYLIB_PATH` match, FreeBSD). No `uv`. Use `python3.12`. Walk steps; do not jump to MAC `oneenforce`.
+
 ## Detect platform
 
 ```bash
