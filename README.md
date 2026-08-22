@@ -2,7 +2,7 @@
 
 Grok **plugin** for the `/max-headroom` skill: install [Headroom](https://github.com/headroomlabs-ai/headroom) (`headroom-ai` on PyPI), write `max-headroom.script`, wrap Grok.
 
-License: **BSD-2-Clause** (`LICENSE`). Not PGP-signed yet.
+License: **Light-ware** (`LICENSE` — BSD-4-Clause plus a non-binding ask to help keep the lights on). Not PGP-signed yet.
 
 This skill does **not** vendor Headroom. Headroom’s own license applies to the cloned tree and PyPI package.
 
