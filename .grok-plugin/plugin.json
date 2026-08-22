@@ -1,0 +1,13 @@
+{
+  "name": "max-headroom-grok",
+  "version": "0.1.0",
+  "description": "Install Headroom (headroomlabs-ai/headroom, PyPI headroom-ai) into projects/, batch OS prereqs, write max-headroom.script, wrap Grok. Use when the user runs /max-headroom.",
+  "author": {
+    "name": "Brian Reborn",
+    "url": "https://github.com/brianreborn"
+  },
+  "homepage": "https://github.com/brianreborn/max-headroom-grok",
+  "repository": "https://github.com/brianreborn/max-headroom-grok",
+  "license": "BSD-2-Clause",
+  "keywords": ["max-headroom", "headroom-ai", "headroomlabs"]
+}
