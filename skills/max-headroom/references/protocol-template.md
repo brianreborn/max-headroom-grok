@@ -38,3 +38,7 @@ grok_config = {{GROK_HOME}}/config.toml
 [verify]
 headroom_version_cmd = {{HEADROOM_BIN}} --version
 doctor_cmd = {{HEADROOM_BIN}} doctor
+
+---
+Copyright © 2026 Brian Fundakowski Feldman. Light-ware License — see the repository root [LICENSE](https://github.com/brianreborn/max-headroom-grok/blob/main/LICENSE) and [NOTICE.md](https://github.com/brianreborn/max-headroom-grok/blob/main/NOTICE.md).
+

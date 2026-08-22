@@ -251,3 +251,7 @@ Follow the loaded `max-headroom.script`:
 - `headroom doctor` / `headroom perf` only when diagnosing.
 
 Canonical docs if a step fails: `https://headroom-docs.vercel.app/docs/installation` and `https://headroom-docs.vercel.app/docs/grok-build`.
+
+---
+Copyright © 2026 Brian Fundakowski Feldman. Light-ware License — see the repository root [LICENSE](https://github.com/brianreborn/max-headroom-grok/blob/main/LICENSE) and [NOTICE.md](https://github.com/brianreborn/max-headroom-grok/blob/main/NOTICE.md).
+
