@@ -28,6 +28,8 @@ Plugin install only copies prompts. When `/max-headroom` **runs**, the agent may
 
 No install-time hooks. No telemetry in this skill. Credentials: none required for the skill itself; Headroom/Grok tokens are yours.
 
+Install remnant (checkout exists; CLI and `max-headroom.script` do not): **[REMNANT.md](REMNANT.md)**.
+
 ## Marketplace
 
 Catalog-ready shape: `skills/`, `.grok-plugin/plugin.json`, `LICENSE`, public repo. Pin a 40-character commit SHA if you PR the xAI plugin index. Do not pin `main`.
